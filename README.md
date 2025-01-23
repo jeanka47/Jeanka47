@@ -1,4 +1,4 @@
-# 👋 Hello, I'm [Tu Nombre]
+# 👋 Hello, I'm Jean Carlos
 
 ![Banner](https://your-banner-url.com) <!-- Reemplaza con el enlace a tu banner animado o GIF -->
 
