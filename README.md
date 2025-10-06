@@ -1,30 +1,21 @@
 <h1 align="center">Hi , Jean Carlos Quiros <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-<h2>Sobre mi 😃</h2>
+<h2 align="center">Sobre mi 😃</h2>
 <!--Intro start-->
-
-<p align="left">
+<div align="center">
+<p align="center">
+<Ul>
 🎓 INGENIERO EN SISTEMAS DE INFORMACIÓN
 
-💻 2 años de esperiencoa como desarrollador de software 
+<li>💻 2 años de esperiencoa como desarrollador de software </li>
 
-📝 roles en el ámbito: Desarrollador, documentación 
+<li>📝 roles en el ámbito: Desarrollador, documentación </li>
 
-📫 Contacto: **quirosjeancarlo@gmail.com**
+<li>📫 Contacto: **quirosjeancarlo@gmail.com**</li>
+
+</Ul>
+</div>
 <br>
-
-<!--- stats & Trophy (start) -->
-<p align="center">
-  <!--- stats (start) -->
-
-  <img  align="left"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=1010nishant&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
-  
-
-
-
-
-</p>        
-<!--- stats (end) -->
-
+</p>
 
 <!--h1 without bottom border-->
 <div id="user-content-toc">
@@ -57,13 +48,4 @@
 <a href="https://discordapp.com/users/957722095381540874" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234982627-019fd336-6248-453c-9b05-97c13fd1d207.png" alt="discord" height="50" width="50" /></a>
   
 </p>
-
-
-<!--profile visit count-->
-<div align="center">
-  
-[![](https://visitcount.itsvg.in/api?id=1010nishant&icon=3&color=6)](https://visitcount.itsvg.in)
-  
-</div>
-
 
